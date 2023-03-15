@@ -1,7 +1,9 @@
 # Hi there! ![waving-hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Bernardo
 
 ## About Me
-I'm a Project Manager with experience leading software projects, and a learner of Backend Development. My skillset includes proficiency in Python, Flask, JavaScript, Docker, and Git. I'm currently focused on advancing my knowledge and skills in web development as a backend, and also seeking to improve my abilities in Project Management.
+- I'm a Project Manager with experience leading software projects, and a learner of Backend Development. 
+- My skillset includes proficiency in Python, Flask, JavaScript, Docker, and Git. 
+- I'm currently focused on advancing my knowledge and skills in web development as a backend, and also seeking to improve my abilities in Project Management.
 
 ## Contact Me
 Feel free to reach out to me on [**LinkedIn**](https://www.linkedin.com/in/bernardoadribeiro/)
